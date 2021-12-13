@@ -202,7 +202,7 @@
 					const provider = new ethers.providers.Web3Provider(window.ethereum)
 					const signer = provider.getSigner()
 
-					const contractAddress = '0x7b67C9c5d8BaF5D702CFaeA88f97dDd613358743';
+					const contractAddress = '0x63D63feAFE9f38e11FF34E23145E95A169Ac0573';
 					const contractAbi = [
 					{
 						"anonymous": false,
